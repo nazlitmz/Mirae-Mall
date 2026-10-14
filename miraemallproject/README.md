@@ -21,11 +21,7 @@ Dark / Light mode toggle — preference saved in localStorage
 
 🏪 Manager Portal
 
-Test Account:
-m.ozgurtemiz@gmail.com // Manulas4
-esraozyakatemiz@gmail.com // Manulas4
-cansuozyaka@gmail.com// Manulas4
-umuttuna03@gmail.com// Manulas4
+
 
 Dashboard with shop overview and order statistics
 Full product management — add, edit, delete with image upload
