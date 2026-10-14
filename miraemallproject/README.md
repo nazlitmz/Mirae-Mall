@@ -9,7 +9,7 @@ The name wasn't chosen randomly. I wanted this project to feel forward-looking n
 
 👤 Customer Portal
 
-Test Account: nazlitemiz45@gmail.com // Manulas4
+
 
 Multi-step signup with real-time password strength meter
 Browse shops with category filter (Clothing, Electronics, Coffeeshop, Restaurant)
